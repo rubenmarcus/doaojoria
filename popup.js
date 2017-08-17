@@ -5,7 +5,7 @@
 /**
  * Add your Analytics tracking ID here.
  */
-var _AnalyticsCode = 'UA-104753082-1';
+var _AnalyticsCode = 'UA-62171685-1';
 /**
  * Below is a modified version of the Google Analytics asynchronous tracking
  * code snippet.  It has been modified to pull the HTTPS version of ga.js
