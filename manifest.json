@@ -1,7 +1,7 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-	"manifest_version": 3,
+	"manifest_version": 2,
 	"name": "Prefeitop",
 	"version": "2.0",
 	"description": "Uma extensão irada pros classe média.",
